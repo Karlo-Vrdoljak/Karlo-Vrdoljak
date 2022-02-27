@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .text-layer {
+    @apply prose prose-sm lg:prose-xl;
+  }
+}
