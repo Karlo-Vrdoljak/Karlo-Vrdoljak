@@ -5,7 +5,7 @@
     "tw:watch": "npx tailwindcss -i ./src/assets/tailwind.css -o ./src/assets/tailwind.output.css --watch",
     "develop": "vite",
     "dev": "run-p tw:watch develop",
-    "build": "vite build",
+    "build": "vite build --base=/Karlo-Vrdoljak/",
     "preview": "vite preview --port 5050",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
     "deploy": "node gh-pages.mjs"
