@@ -19,7 +19,7 @@ import html2pdf from "html2pdf.js";
     </main>
     <!-- <Background></Background> -->
 
-    <button
+    <!-- <button
       data-html2canvas-ignore="true"
       @click="printPdf"
       class="p-0 w-12 h-12 fixed bottom-4 right-4 bg-primary-600 flex items-center justify-center rounded-full hover:bg-primary-700 active:shadow-lg mouse shadow transition ease-in duration-200 focus:outline-none"
@@ -30,7 +30,7 @@ import html2pdf from "html2pdf.js";
         type="mdi"
         :path="mdiFilePdfBox"
       ></SvgIcon>
-    </button>
+    </button> -->
   </div>
 </template>
 
