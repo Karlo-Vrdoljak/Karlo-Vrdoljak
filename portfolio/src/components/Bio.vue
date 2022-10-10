@@ -47,7 +47,7 @@ export default {
       skills in already acquired ones. I embrace the need of constant
       self-improving of one's knowledge and skills.
     </div>
-    <div class="text-layer pt-4 pb-2">
+    <!-- <div class="text-layer pt-4 pb-2">
       <h3 class="!mb-0 tracking-wide">Education</h3>
       <h4 class="text-primary">Bsc in Computer Science</h4>
     </div>
@@ -57,6 +57,19 @@ export default {
       textClass="text-base cursor-pointer text-gray-700"
       :icon="mdiCalendar"
       text="09/2016 - 07/2020"
+    ></Annotation>
+    <div class="prose prose-sm lg:prose-lg text-justify font-semibold pb-4">
+      University of Split - University Department of Professional Studies
+    </div> -->
+    <div class="text-layer pt-4 pb-2">
+      <h4 class="text-primary">Master's degree in Computer Science</h4>
+    </div>
+    <Annotation
+      size="24"
+      iconClass="text-primary"
+      textClass="text-base cursor-pointer text-gray-700"
+      :icon="mdiCalendar"
+      text="09/2020 - 07/2022"
     ></Annotation>
     <div class="prose prose-sm lg:prose-lg text-justify font-semibold pb-4">
       University of Split - University Department of Professional Studies
