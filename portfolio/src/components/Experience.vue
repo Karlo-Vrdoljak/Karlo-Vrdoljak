@@ -35,10 +35,6 @@ export default {
     <div class="prose prose-sm lg:prose-lg">
       <ul class="md:text-justify">
         <li>
-          The company Lama d.o.o. has been among the TOP100 Croatian IT
-          companies in terms of revenue for ten years, based in Dalmatia
-        </li>
-        <li>
           Working as a full-stack software developer in various work projects
           such as
           <div>
