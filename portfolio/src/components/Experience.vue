@@ -21,7 +21,7 @@ export default {
         iconClass="text-primary"
         textClass="text-base cursor-pointer text-gray-700"
         :icon="mdiCalendar"
-        text="08/2019 - Ongoing"
+        text="08/2018 - Ongoing"
       ></Annotation>
       <Annotation
         class="py-2"
