@@ -13,8 +13,8 @@ import html2pdf from "html2pdf.js";
     <main class="container max-w-[1440px] mx-auto sm:pt-8 p-4 lg:p-6">
       <Header class="pb-8"></Header>
       <div class="grid md:grid-cols-2 gap-4 md:gap-16 auto-rows-fr w-full">
-        <Experience></Experience>
         <Bio></Bio>
+        <Experience></Experience>
       </div>
     </main>
     <!-- <Background></Background> -->
